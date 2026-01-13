@@ -1,3 +1,9 @@
+---
+title: Syringe Pump – Arduino Code
+permalink: /syringe-pump-code/
+---
+
+## Arduino Code
 
 // Libary
 #include <AccelStepper.h>
