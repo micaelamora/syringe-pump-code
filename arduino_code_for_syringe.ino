@@ -1,5 +1,3 @@
-void setup() {
-  // put your setup code here, to run once:
 
 // Libary
 #include <AccelStepper.h>
@@ -586,7 +584,3 @@ void loop() {
 
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
